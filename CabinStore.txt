@@ -1,0 +1,37 @@
+
+Cabin 1
+ -> Customer Name: e||Customer Surname :e|| Customer amount :e|
+Another names : e| |e
+Cabin 2
+ -> Customer Name: e||Customer Surname :e|| Customer amount :e|
+Another names : e| |e
+Cabin 3
+ -> Customer Name: e||Customer Surname :e|| Customer amount :e|
+Another names : e| |e
+Cabin 4
+ -> Customer Name: e||Customer Surname :e|| Customer amount :e|
+Another names : e| |e
+Cabin 5
+ -> Customer Name: e||Customer Surname :e|| Customer amount :e|
+Another names : e| |e
+Cabin 6
+ -> Customer Name: e||Customer Surname :e|| Customer amount :e|
+Another names : e| |e
+Cabin 7
+ -> Customer Name: e||Customer Surname :e|| Customer amount :e|
+Another names : e| |e
+Cabin 8
+ -> Customer Name: e||Customer Surname :e|| Customer amount :e|
+Another names : e| |e
+Cabin 9
+ -> Customer Name: e||Customer Surname :e|| Customer amount :e|
+Another names : e| |e
+Cabin 10
+ -> Customer Name: e||Customer Surname :e|| Customer amount :e|
+Another names : e| |e
+Cabin 11
+ -> Customer Name: e||Customer Surname :e|| Customer amount :e|
+Another names : e| |e
+Cabin 12
+ -> Customer Name: e||Customer Surname :e|| Customer amount :e|
+Another names : e| |e
